@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --color-delta-crimson: #C8102E;
+  --color-delta-blue: #003A70;
+  --color-delta-accent: #862633;
+}
+
